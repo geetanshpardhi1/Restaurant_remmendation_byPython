@@ -27,7 +27,7 @@ The Restaurant Recommendation System is a Python application that suggests resta
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/restaurant-recommendation.git
+   git clone https://github.com/geetanshpardhi1/Restaurant_remmendation_byPython.git
    ```
 
 2. Install the required dependencies:
@@ -54,26 +54,14 @@ The Restaurant Recommendation System is a Python application that suggests resta
 ## Example
 
 ```plaintext
-Enter your preferred cuisines (comma-separated, or press Enter for any): Italian,Mexican
+Enter your preferred cuisines (comma-separated, or press Enter for any): Indian,Chinese
 Enter the minimum rating you prefer (press Enter for any): 4.0
 Enter your latitude: 40.7128
 Enter your longitude: -74.0060
 
 Recommended Restaurants:
-1. Restaurant A - Cuisine: Italian, Rating: 4.5, Proximity: 2.31 kilometers
-2. Restaurant B - Cuisine: Mexican, Rating: 4.0, Proximity: 8.77 kilometers
+1. Restaurant A - Cuisine: Indian, Rating: 4.5, Proximity: 2.31 kilometers
+2. Restaurant B - Cuisine: Chinese, Rating: 4.0, Proximity: 8.77 kilometers
 3. ...
 
 ```
-
-## Contributing
-
-If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to adapt and expand this template based on your project's specific details and needs. Include additional sections or details that would be relevant to users and developers interacting with your application.
